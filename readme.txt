@@ -5,3 +5,8 @@ Answer :
 1. git remote -v (v for verbose)
 2. origin  https://github.com/akshith271/learning_git.git (fetch)
    origin  https://github.com/akshith271/learning_git.git (push)
+
+Question :
+Which command did you use to push to remote repository?
+Answer :
+git push -u origin [branch name]
